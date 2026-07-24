@@ -19,7 +19,7 @@ export const translations = {
 
     "stats-projects": "Projeler",
     "stats-tech": "Teknolojiler",
-    
+    "stats-learning": "Öğreniyorum",
 
     "card-title": "Aspiring Full-Stack Developer",
 
@@ -61,7 +61,7 @@ export const translations = {
     "service2-title": "Backend Development",
 
     "service2-desc":
-      "C# ve Node.js kullanarak güvenli ve ölçeklenebilir backend sistemleri geliştiriyorum.",
+      "C#, ASP.NET Core ve Node.js kullanarak güvenli ve ölçeklenebilir backend sistemleri geliştiriyorum.",
 
     "service3-title": "Database Design",
 
@@ -199,7 +199,7 @@ export const translations = {
 
     "stats-projects": "Projects",
     "stats-tech": "Technologies",
-    
+    "stats-learning": "Learning",
 
     "card-title": "Aspiring Full-Stack Developer",
 
@@ -244,7 +244,7 @@ export const translations = {
     "service2-title": "Backend Development",
 
     "service2-desc":
-      "I develop secure and scalable backend systems using C# and Node.js.",
+      "I develop secure and scalable backend systems using C#, ASP.NET Core and Node.js.",
 
     "service3-title": "Database Design",
 
