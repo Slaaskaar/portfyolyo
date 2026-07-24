@@ -61,7 +61,7 @@ export const translations = {
     "service2-title": "Backend Development",
 
     "service2-desc":
-      "C#, ASP.NET Core ve Node.js kullanarak güvenli ve ölçeklenebilir backend sistemleri geliştiriyorum.",
+      "C# ve Node.js kullanarak güvenli ve ölçeklenebilir backend sistemleri geliştiriyorum.",
 
     "service3-title": "Database Design",
 
@@ -244,7 +244,7 @@ export const translations = {
     "service2-title": "Backend Development",
 
     "service2-desc":
-      "I develop secure and scalable backend systems using C#, ASP.NET Core and Node.js.",
+      "I develop secure and scalable backend systems using C# and Node.js.",
 
     "service3-title": "Database Design",
 
