@@ -112,9 +112,7 @@ document.addEventListener("mousemove",(e)=>{
 
 
 
-// =========================
-// PROJECT SLIDER
-// =========================
+
 
 document.querySelectorAll(".project-card").forEach((card) => {
 
