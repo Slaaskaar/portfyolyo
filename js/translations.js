@@ -1,6 +1,6 @@
 export const translations = {
   tr: {
-    // NAVBAR
+    
     "nav-home": "Ana Sayfa",
     "nav-about": "Hakkımda",
     "nav-projects": "Projeler",
@@ -8,7 +8,7 @@ export const translations = {
     "nav-contact": "İletişim",
     "nav-button": "İletişime Geç",
 
-    // HERO
+   
     "hero-tag": "ASPIRING FULL-STACK DEVELOPER",
 
     "hero-title":
@@ -28,7 +28,7 @@ export const translations = {
 
     "current-projects": "Şu Anda Full-Stack Projeler Geliştiriyorum",
 
-    // ABOUT
+  
     "about-tag": "HAKKIMDA",
 
     "about-title": "Ben Kimim?",
@@ -42,7 +42,6 @@ export const translations = {
 
     "about-btn": "Benimle İletişime Geç",
 
-    // SERVICES
 
     "services-tag": "HİZMETLER",
 
@@ -73,7 +72,7 @@ export const translations = {
     "service4-desc":
       "Masaüstü, tablet ve mobil cihazlarda kusursuz çalışan kullanıcı deneyimleri oluşturuyorum.",
 
-    // PROJECTS
+    
 "projects-tag": "PROJELER",
 
 "projects-title": "Geliştirdiğim Projeler",
@@ -109,7 +108,6 @@ export const translations = {
     "project5-desc":
       "Seyahat ve tur rezervasyon platformu. Destinasyon tanıtımları, tur paketleri ve modern kullanıcı deneyimi.",
 
-    // SKILLS
 
     "skills-tag": "YETENEKLER",
 
@@ -117,7 +115,7 @@ export const translations = {
 
     "skills-desc":
       "Sürekli öğrenmeye devam ettiğim ve projelerimde aktif olarak kullandığım teknolojiler.",
-          // TIMELINE
+        
 
     "timeline-tag": "YOLCULUK",
 
@@ -146,7 +144,7 @@ export const translations = {
     "timeline4-desc":
       "C#, React ve SQL alanlarında kendimi geliştirmeye devam ederken modern web uygulamaları geliştiriyor ve kişisel portfolyomu sürekli iyileştiriyorum.",
 
-    // CONTACT
+    
 
     "contact-tag": "İLETİŞİM",
 
@@ -160,7 +158,7 @@ export const translations = {
 
     "cv-btn": "CV İndir",
 
-    // FOOTER
+    
 
     "footer-role": "Aspiring Full-Stack Developer",
 
@@ -179,7 +177,7 @@ export const translations = {
 
   en: {
 
-    // NAVBAR
+   
     "nav-home": "Home",
     "nav-about": "About",
     "nav-projects": "Projects",
@@ -187,7 +185,7 @@ export const translations = {
     "nav-contact": "Contact",
     "nav-button": "Contact Me",
 
-    // HERO
+   
 
     "hero-tag": "ASPIRING FULL-STACK DEVELOPER",
 
@@ -209,7 +207,7 @@ export const translations = {
     "current-projects":
       "Currently Building Full-Stack Projects",
 
-    // ABOUT
+ 
 
     "about-tag": "ABOUT",
 
@@ -225,7 +223,7 @@ export const translations = {
 
     "about-btn": "Contact Me",
 
-    // SERVICES
+   
 
     "services-tag": "SERVICES",
 
@@ -256,7 +254,7 @@ export const translations = {
     "service4-desc":
       "Creating seamless user experiences across desktop, tablet and mobile devices.",
 
-    // PROJECTS
+    
 
     "projects-tag": "PROJECTS",
 
@@ -292,7 +290,7 @@ export const translations = {
     "project5-desc":
       "Travel and tour booking platform featuring destinations, tour packages and modern UX.",
 
-    // SKILLS
+    
 
     "skills-tag": "SKILLS",
 
@@ -301,7 +299,7 @@ export const translations = {
     "skills-desc":
       "Technologies I actively use in my projects while continuously improving myself.",
 
-    // TIMELINE
+    
 
     "timeline-tag": "JOURNEY",
 
@@ -334,7 +332,7 @@ export const translations = {
     "timeline4-desc":
       "Continuing to improve in C#, React and SQL while developing modern web applications and constantly enhancing my portfolio.",
 
-    // CONTACT
+    
 
     "contact-tag": "CONTACT",
 
@@ -348,7 +346,7 @@ export const translations = {
 
     "cv-btn": "Download CV",
 
-    // FOOTER
+    
 
     "footer-role":
       "Aspiring Full-Stack Developer",
