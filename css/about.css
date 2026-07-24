@@ -1,0 +1,21 @@
+:root{
+    --primary:#29D8FF;
+
+    --card-bg:rgba(255,255,255,.05);
+    --surface:rgba(255,255,255,.05);
+
+    --border-color:rgba(255,255,255,.08);
+
+    --text:#ffffff;
+    --text-secondary:#bdbdbd;
+}
+
+body.light{
+    --card-bg:#ffffff;
+    --surface:#f5f7fb;
+
+    --border-color:#dbe3ec;
+
+    --text:#111827;
+    --text-secondary:#4b5563;
+}

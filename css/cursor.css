@@ -1,0 +1,40 @@
+#cursor{
+
+    width:18px;
+    height:18px;
+
+    border-radius:50%;
+
+    background:#22D3EE;
+
+    position:fixed;
+
+    left:0;
+    top:0;
+
+    transform:translate(-50%,-50%);
+
+    pointer-events:none;
+
+    z-index:99999;
+
+    transition:
+        width .25s,
+        height .25s,
+        background .25s;
+
+    box-shadow:
+        0 0 25px rgba(34,211,238,.6);
+
+}
+
+#cursor.hover{
+
+    width:55px;
+    height:55px;
+
+    background:rgba(34,211,238,.15);
+
+    border:1px solid #22D3EE;
+
+}
