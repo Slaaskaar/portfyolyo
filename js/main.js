@@ -4,9 +4,6 @@ import "./hero.js";
 import "./cursor.js";
 import "./magnetic.js";
 
-/* ===========================
-      MOBILE MENU
-=========================== */
 
 const menu = document.querySelector(".menu-toggle");
 const nav = document.querySelector("nav");
@@ -25,9 +22,7 @@ if (menu && nav) {
     });
 }
 
-/* ===========================
-      THEME
-=========================== */
+
 
 const themeBtn = document.getElementById("theme-toggle");
 
@@ -42,9 +37,7 @@ if (themeBtn) {
     });
 }
 
-/* ===========================
-      LANGUAGE SYSTEM
-=========================== */
+
 
 const langToggle = document.getElementById("lang-toggle");
 
