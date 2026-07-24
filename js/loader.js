@@ -1,4 +1,4 @@
-// Canvas
+
 const canvas = document.getElementById("stars");
 const ctx = canvas.getContext("2d");
 
@@ -10,7 +10,7 @@ function resizeCanvas() {
 resizeCanvas();
 window.addEventListener("resize", resizeCanvas);
 
-// Loader mesajları
+
 const status = document.getElementById("loader-status");
 
 const messages = [
@@ -30,7 +30,7 @@ setInterval(() => {
     }
 }, 900);
 
-// Logo animasyonu
+
 document.querySelectorAll(".loader-logo span").forEach((letter, index) => {
     setTimeout(() => {
         letter.style.opacity = "1";
@@ -38,7 +38,7 @@ document.querySelectorAll(".loader-logo span").forEach((letter, index) => {
     }, index * 200);
 });
 
-// Subtitle
+
 const subtitle = document.querySelector(".loader-subtitle");
 
 setTimeout(() => {
@@ -46,7 +46,7 @@ setTimeout(() => {
     subtitle.style.transform = "translateY(0)";
 }, 900);
 
-// Stars
+
 const stars = [];
 
 for (let i = 0; i < 250; i++) {
