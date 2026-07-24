@@ -19,7 +19,7 @@ export const translations = {
 
     "stats-projects": "Projeler",
     "stats-tech": "Teknolojiler",
-    "stats-learning": "Öğreniyorum",
+    
 
     "card-title": "Aspiring Full-Stack Developer",
 
@@ -199,7 +199,7 @@ export const translations = {
 
     "stats-projects": "Projects",
     "stats-tech": "Technologies",
-    "stats-learning": "Learning",
+    
 
     "card-title": "Aspiring Full-Stack Developer",
 
